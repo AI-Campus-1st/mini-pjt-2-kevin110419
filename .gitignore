@@ -6,6 +6,5 @@ data/raw/
 data/logs/
 !data/raw/.gitkeep
 !data/logs/.gitkeep
-.env
 Makefile
 commands.ps1
