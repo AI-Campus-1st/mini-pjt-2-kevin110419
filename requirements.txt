@@ -1,3 +1,8 @@
 streamlit
 pandas
 matplotlib
+plotly
+requests
+python-dotenv
+pymysql
+sqlalchemy
